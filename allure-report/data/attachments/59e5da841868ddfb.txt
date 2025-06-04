@@ -1,1 +1,0 @@
-Exception occurred while clicking 'My Account': Error: locator.click: Target page, context or browser has been closed
